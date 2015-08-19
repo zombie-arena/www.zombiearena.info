@@ -1,0 +1,126 @@
+/*!
+ * Start Bootstrap - Portfolio Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    color:#cccccc;
+
+    background: #000000 url(../images/background_adjusted.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+html {
+    line-height: 200%;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.05em;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 30px 0;
+	text-align: center;
+}
+
+.navbar{
+	background: #474747;
+}
+
+.topNavBar{
+	width: 100%;
+}
+
+.header-items {
+	padding-left: 5px;
+	overflow: auto;
+	float: left;
+}
+
+.header-items a{
+	color: #fff;
+	float: left;
+	padding: 18px;
+	margin-top: 5px;
+}
+
+.navBarAppIcon{
+	margin:5px;
+	display: block;
+}
+
+.social-network {
+	float: right;
+	text-align: center;
+	margin-top: 12px;
+	width: 250px;
+}
+
+.social-network a {
+	color: #fff;
+	margin: 0 0.5em;
+}
+
+.social-network i {
+	padding: 2px 5px;
+	border-radius: 5px;
+}
+
+.social-network i:hover {
+	background-color: #fff;
+}
+
+.gplus:hover {
+	color: #d34836;
+}
+
+.twitter:hover {
+	color: #0084b4;
+}
+
+.facebook:hover {
+	color: #3b5998;
+}
+
+.floatLeft{
+	float:left;
+}
+
+.floatRight{
+	float:right;
+}
+
+.clear{
+	clear: both;
+}
+
+.screnshotsWrapper{
+	background: rgba(61, 61, 61, 0.8);
+	/*background: #474747;*/
+	margin-top:30px;
+}
+
+.mainSection{
+	margin-top: 30px;
+}
+
+.downloadButton{
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.downloadButton a {
+	margin-top: 2px;
+}
+
+.downloadButton a:hover {
+	opacity: 0.8;
+}
