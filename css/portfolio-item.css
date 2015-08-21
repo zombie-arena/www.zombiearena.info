@@ -30,6 +30,19 @@ footer {
 	text-align: center;
 }
 
+
+a {
+	color: #cccccc;
+}
+
+a:hover{
+	color: #ffffff;
+}
+
+a:visited{
+	color: #cccccc;
+}
+
 .navbar{
 	background: #474747;
 }
@@ -119,8 +132,25 @@ footer {
 
 .downloadButton a {
 	margin-top: 2px;
+	opacity: 0.6;
 }
 
 .downloadButton a:hover {
-	opacity: 0.8;
+	opacity: 1;
+}
+
+.seeMoreButton a:link{
+	color: #cccccc;
+}
+
+.seeMoreButton a:hover{
+	color: #cccccc;
+}
+
+.seeMoreButton a:active{
+	color: #cccccc;
+}
+
+.seeMoreButton a:visited{
+	color: #cccccc;
 }
