@@ -30,6 +30,22 @@ footer {
 	text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+
+a {
+	color: #cccccc;
+}
+
+a:hover{
+	color: #ffffff;
+}
+
+a:visited{
+	color: #cccccc;
+}
+
+>>>>>>> gh-pages
 .navbar{
 	background: #474747;
 }
@@ -119,8 +135,32 @@ footer {
 
 .downloadButton a {
 	margin-top: 2px;
+<<<<<<< HEAD
 }
 
 .downloadButton a:hover {
 	opacity: 0.8;
+=======
+	opacity: 0.6;
+}
+
+.downloadButton a:hover {
+	opacity: 1;
+}
+
+.seeMoreButton a:link{
+	color: #cccccc;
+}
+
+.seeMoreButton a:hover{
+	color: #cccccc;
+}
+
+.seeMoreButton a:active{
+	color: #cccccc;
+}
+
+.seeMoreButton a:visited{
+	color: #cccccc;
+>>>>>>> gh-pages
 }
