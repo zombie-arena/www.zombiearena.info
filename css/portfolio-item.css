@@ -30,10 +30,8 @@ footer {
 	text-align: center;
 }
 
-<<<<<<< HEAD
-=======
-
 a {
+	font-weight: bold;
 	color: #cccccc;
 }
 
@@ -45,7 +43,6 @@ a:visited{
 	color: #cccccc;
 }
 
->>>>>>> gh-pages
 .navbar{
 	background: #474747;
 }
@@ -135,12 +132,6 @@ a:visited{
 
 .downloadButton a {
 	margin-top: 2px;
-<<<<<<< HEAD
-}
-
-.downloadButton a:hover {
-	opacity: 0.8;
-=======
 	opacity: 0.6;
 }
 
@@ -149,6 +140,7 @@ a:visited{
 }
 
 .seeMoreButton a:link{
+	font-weight: bold;
 	color: #cccccc;
 }
 
@@ -162,5 +154,4 @@ a:visited{
 
 .seeMoreButton a:visited{
 	color: #cccccc;
->>>>>>> gh-pages
 }
